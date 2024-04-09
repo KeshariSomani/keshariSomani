@@ -3,7 +3,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-📫 How to reach me **somanikeshari8726@gmail.com**
+📫 How to reach me **somanikeshari8726@gmail.com** 
+<br>
 🌱 I’m currently learning React, Node.JS.
 
 
