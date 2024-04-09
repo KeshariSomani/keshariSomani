@@ -4,6 +4,8 @@
 
 
 📫 How to reach me **somanikeshari8726@gmail.com**
+🌱 I’m currently learning React, Node.JS.
+
 
 
 <p align="left">
