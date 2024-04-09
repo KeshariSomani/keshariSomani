@@ -1,5 +1,5 @@
-<h2 align="center">Hey Viewer👋, Welcome to my profile</h1>
-<h1 align="center">I'm Somani Keshari</h1>h1>
+<h2 align="center">Hey Viewer🙏🏻, Welcome to My Profile</h1>
+<h1 align="center">I'm Somani Keshari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
