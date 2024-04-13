@@ -5,7 +5,7 @@
 
 📫 How to reach me **somanikeshari8726@gmail.com** 
 <br> <br> 
-🌱 I’m currently learning React, Node.JS.
+🌱 I’m currently learning **React, Node.JS**
 
 
 
