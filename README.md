@@ -1,6 +1,6 @@
 <h2 align="center">Hey Viewer, Welcome to My Profile🙏🏻</h1>
 <h1 align="center">I'm Somani Keshari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India </h3>
 
 
 📫 How to reach me **somanikeshari8726@gmail.com** 
